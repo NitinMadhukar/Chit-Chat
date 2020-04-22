@@ -1,2 +1,1 @@
-web:cd/server npm i && npm start 
-web:cd/client npm i && npm start
+web:cd/server && cd/client npm i && npm start 
