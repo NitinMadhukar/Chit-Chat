@@ -1,2 +1,5 @@
 # Chat-app
-real time chat application. using React.js, Node.js, Express.js, and Socket.io. 
+
+A Real time chat application. using React.js, Node.js, Express.js, and Socket.io. 
+
+
